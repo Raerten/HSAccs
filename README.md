@@ -6,7 +6,7 @@
 
 ### Как скачать
 
-Скачать программу для Android можно в разделе [releases](https://github.com/Raerten/HSAccs/releases) (выбрать .apk файл нужно версии).
+Скачать программу для Android можно в разделе [releases](https://github.com/Raerten/HSAccs/releases) (выбрать .apk файл нужной версии).
 
 #### Описание
 
