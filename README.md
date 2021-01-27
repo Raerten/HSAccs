@@ -6,7 +6,9 @@
 
 Аккаунт менеджер для игры HS. Позволяет в несколько кликов менять файлы login.info
 
-[![](https://yt-embed.herokuapp.com/embed?v=aeMvdRtb6OQ)](https://www.youtube.com/watch?v=aeMvdRtb6OQ)
+### YouTube инструкция
+
+[![](https://img.youtube.com/vi/aeMvdRtb6OQ/hqdefault.jpg)](https://www.youtube.com/watch?v=aeMvdRtb6OQ)
 
 ### Как скачать
 
